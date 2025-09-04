@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My Name is Dennis, and I'm a CSUF trained computer scientist interested in all things Python, Machine Learning and Data Science!
+
+- 🔭 I’m currently working on [NflQuant.io](https://www.nflquant.io/), building an NFL model that people can run for free.
+- 🌱 I’m currently learning about AI and Machine Learning.
+- 👯 I’m looking to collaborate on a Machine Learning project!
 
 <!--
 **dennistye/dennistye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
