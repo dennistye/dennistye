@@ -3,7 +3,7 @@
 My Name is Dennis, and I'm a CSUF trained computer scientist with a passion for Python, Machine Learning, and Data Science. I enjoy turning raw data into insights, tools, and real-world solutions.
 
 - 🔭 Currently building [nflquant.io](https://www.nflquant.io/), a free NFL analytics platform where anyone can view predictive model data and compare it with Vegas lines.
-- 🌱 I’m currently learning about AI and Machine Learning.
+- 🌱 I am currently learning about AI and Machine Learning.
 - 👯 Open to collaborating on ML or data-driven projects, especially in sports analytics, automation, or AI-powered decision tools.
 - 💬 Let’s connect, I am always happy to talk tech, share ideas, or explore collaboration opportunities.
   - Message me at dennis.tyee@gmail.com
